@@ -1,0 +1,5 @@
+config SHIELD_NOZHIKLAVA_LEFT
+	def_bool $(shields_list_contains,nozhiklava_left)
+
+config SHIELD_NOZHIKLAVA_RIGHT
+	def_bool $(shields_list_contains,nozhiklava_right)
