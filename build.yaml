@@ -22,11 +22,11 @@ include:
   - board: nice_nano_v2
     shield: nozhiklava_left
     artifact-name: nozhiklava_left
-    snippet: zmk-usb-logging
+    # snippet: zmk-usb-logging
   - board: nice_nano_v2
     shield: nozhiklava_right
     artifact-name: nozhiklava_right
-    snippet: zmk-usb-logging
+    # snippet: zmk-usb-logging
   - board: nice_nano_v2
     shield: settings_reset
     
